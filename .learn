@@ -1,8 +1,0 @@
-tags:
-  - generators
-languages:
-  - ruby
-  - rails
-resources: 
-  - 0
-parent_template: git@github.com:learn-co-curriculum/rails-generators-readme.git
